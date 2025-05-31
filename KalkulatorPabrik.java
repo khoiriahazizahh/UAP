@@ -5,7 +5,7 @@ import uap.uap.bases.Shape;
 import uap.uap.models.Sphere;
 import uap.uap.models.Torus;
 
-public class KalkulatorCetakan {
+public class KalkulatorPabrik {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in); // Membuat objek Scanner untuk input radius
 
